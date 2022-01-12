@@ -1,2 +1,2 @@
 # Kaggle-Income-Classification
-Data analysis and prediction of the Income Classification dataset on Kaggle using numpy, pandas and the fastai libraries.
+Data analysis of the Income Classification dataset on Kaggle with Random Forests using Numpy, Pandas, Sklearn and the fastai libraries.
